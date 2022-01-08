@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SantinoAggosti
+- 👀 I’m interested in electrical engenieering and machine learning
+- 🌱 I’m currently learning flutter and audio managment
+- 💞️ I’m looking to collaborate on any project related to machine learning, artificial intelligence or flutter UI
+- 📫 How to reach me: Email-santinoaggosti@gmail.com
