@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @SantinoAggosti
-- Electronical engineering Student at ITBA, Argentina.
+- CANSAT 2025 Champion 
+- Electronical Engineering Student at ITBA, Argentina.
